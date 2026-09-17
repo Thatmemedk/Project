@@ -14,11 +14,15 @@ Resultatet kopplas till AI-utvecklarrollen genom att visa vilka tekniska kompete
 Relevanta certifieringsområden att undersöka är AWS, Microsoft Azure och Databricks. Beskriv i slutversionen vilka certifikat som är relevanta för AI-/molnrelaterade arbetsuppgifter och varför.
 
 ## Reflektion
-**Vad gick bra?** Fylls i efter genomförd körning.
 
-**Vad var svårt?** Fylls i efter genomförd körning.
+## Vad gick bra?
+API-anropet fungerade bra och jag kunde hämta fem jobbannonser från JobTech. Jag kunde också se och kontrollera informationen i annonserna.
 
-**Vad skulle jag göra annorlunda?** Fylls i efter analysen, exempelvis bättre textanalys, fler annonser eller bättre datarensning.
+## Vad var svårt?
+Det var svårt att förstå den stora mängden information som finns i JSON-datan och vilka delar som är viktigast för analysen.
+
+## Vad skulle jag göra annorlunda?
+Jag skulle hämta fler jobbannonser för att få ett större underlag. Jag skulle också rensa och strukturera datan bättre innan jag börjar analysera den.
 
 ## GitHub
 Repository: https://github.com/Thatmemedk/Project
