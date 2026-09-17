@@ -1,5 +1,3 @@
-# Jobbannons-analys för AI-utvecklare
-
 ## Mål
 Analysera jobbannonser med Python för att undersöka vilka teknologier som efterfrågas i roller med koppling till AI-utveckling.
 
@@ -23,12 +21,9 @@ Relevanta certifieringsområden att undersöka är AWS, Microsoft Azure och Data
 **Vad skulle jag göra annorlunda?** Fylls i efter analysen, exempelvis bättre textanalys, fler annonser eller bättre datarensning.
 
 ## GitHub
-Repository: `[Lägg in GitHub-länk här]`
+Repository: https://github.com/Thatmemedk/Project
 
 ## Installation
 `pip install -r requirements.txt`
 
 Öppna sedan `jobbannons_analys.ipynb` i Jupyter, VS Code eller Google Colab och kör cellerna uppifrån och ned.
-
-## AI-användning
-AI används som stöd för idéer, kodstruktur, förklaringar och felsökning.
